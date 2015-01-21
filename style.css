@@ -1,0 +1,134 @@
+* { margin: 0;padding: 0;}
+.body {font-family:arial;font-size:14px;line-height:22px;color:#000;margin-top:10px;}
+.main{background-color: #3C5897;height: 112px;margin-top:2px;width: 1371px;}
+.form-group {height: 213px;margin-left: 739px;margin-top: -63px;width: 188px;}
+.form-group label{color:white}
+.form-group input{height: 31px;width: 186px;}
+.form-group1 {margin-left: 962px;margin-top: -213px;width: 23px;}
+.form-group1 label {color: white;margin-top: 86px;}
+.form-group1 input {height: 31px;width: 186px;}
+.sp2 {margin-left: 740px;margin-top: 5px;color: white;}
+.sp3{margin-left: 964px;margin-top: -20px;color: white;}
+.container{margin-left: 1181px;margin-top: -45px;}
+.slider{background-color: #F1F2F7;
+    height: 299px;
+    position: relative;
+    top: -50;}
+.shati{ margin-left: 308;margin-top: 79;}
+.rasel{position: relative;
+    top: 187;
+    left: 233;}
+.slider2{margin-left:42px;}
+.slider2 h2{}
+.slider2 p{}
+.slider3 {
+    margin-left: -128px;
+    position: relative;
+    top: 15;
+}
+.slider4 {
+    margin-left: 12px;
+    margin-top: -90px;
+}
+.zaman {position: relative;
+    top: -220px;}
+.Zaman1 {margin-left: 742px;}
+.Zaman1 p {font-size: 16px;margin-top: 17px;}
+.form {margin-left: 743px;}
+.form input {font-size: 26px;height: 47px;margin-top: 27px;width: 212px;}
+.form2 {margin-left: 985px;margin-top: -47px;}
+.form2 input {font-size: 26px;height: 47px;width: 221px;}
+.form3 {font-size: 26px;margin-left: 744px;margin-top: 23px;}
+.form3 input {font-size: 26px;height: 47px;width: 463px;margin-top:12px;}
+.maincontant{ background-color: #DCDFEA;
+    height: 404px;
+    position: relative;
+    top: -54;}
+.form4 {font-size: 26px;margin-left: 744px;margin-top: 0px;}
+.form4 input {font-size: 26px;height: 47px;margin-top: 0px;width: 463px;}
+.form5 {font-size: 26px;margin-left: 744px;margin-top: 0px;}
+.form5 input {font-size: 26px;height: 47px;margin-top:18px;width: 463px;}
+.swity{ margin-top: 16;}
+.contant {margin-left: 746px;margin-top: 14px;}
+.contant h2{}
+.form-group3 {}
+.form-group4 {margin-left: 138;margin-top: -20;}
+.form-group5 {margin-left: 208;margin-top: -21;}
+.contant p { margin-left: 301;margin-top: -23;color: blue;font-size: 12;}
+.checkbox {margin-left: 17;margin-top: 9;}
+.checkbox1 {margin-left: 102;margin-top: -17;}
+.rone p{margin-left: 1;margin-top: 6;font-size: 10;color: black;}
+.rone1{margin-top: 12;color: blue;}
+.rone2{border-bottom: 1px solid ;width: 358;margin-top: 21;color: 3C7FB1;margin-left: 9;}
+.rone3{margin-top: 17;margin-left: 10;color: blue;}
+.rakib p{color: black;margin-left: 117px;margin-top: -17px}
+.wrapper {margin-left: 173;margin-top: 14;color: blue;}
+.book{}
+.book1{border-bottom: 1px solid;color: #3C7FB1;margin-top: 9;margin-left: 0;margin-right: 309;}
+.book2{}
+.book3{margin-top: 36;;color: 777777;}
+.book4{}
+.bool {
+    margin-top: 8;
+}
+.bool1 {
+    margin-left: 79;
+    margin-top: -19;
+}
+.bool2 {
+    margin-left: 151;
+    margin-top: -19;
+}
+.bool3 {
+    margin-left: 227;
+    margin-top: -19;
+}
+.bool4 {
+    margin-left: 318;
+    margin-top: -19;
+}
+.bool5 {
+    margin-left: 425;
+    margin-top: -19;
+}
+.bool6 {
+    margin-left: 529;
+    margin-top: -19;
+}
+.bool7 {
+    margin-left: 615;
+    margin-top: -19;
+}
+.bool8 {
+    margin-top: 14;
+}
+.bool9 {
+    margin-left: 82;
+    margin-top: -19;
+}
+.bool10 {
+    margin-left: 146;
+    margin-top: -19;
+}
+.bool11 {
+    margin-left: 224;
+    margin-top: -19;
+}
+.bool12 {
+    margin-left: 316;
+    margin-top: -19;
+}
+.bool13 {
+    margin-left: 429;
+    margin-top: -19;
+}
+.bool14 {
+    margin-left: 531;
+    margin-top: -19;
+}
+.bool15 {
+    margin-left: 623;
+    margin-top: -19;
+}
+.bool17 {margin-top: 12;
+}
